@@ -13,3 +13,5 @@ After all requirements have been satisfied, you can run the code in your vscode 
 ```bash
 python camera.py
 ```
+Your camera will open up if nothing goes wrong, you can't press 'x' to exit the camera
+To exit it you just need to move your face away from the square and the program will terminate automatically
